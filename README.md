@@ -11,9 +11,7 @@ Feel free to explore — and let’s connect!
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+A motivated Computer Engineering graduate seeking an entry-level opportunity to grow and contribute in a dynamic tech-related role. Open to exploring different paths in IT, while developing practical skills and discovering areas of long-term interest.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
