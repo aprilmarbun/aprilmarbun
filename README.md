@@ -1,9 +1,14 @@
-# Hello, I'm CHANGEME
+# Hello, I'm APRIL
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Hi! I'm April Marbun — a Computer Engineering graduate with a strong interest in cybersecurity, networking, and system security.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m passionate about understanding how systems work (and break), and currently learning more about network security, Linux hardening, and basic penetration testing.
+
+This portfolio showcases my personal projects, experiments, and learning journey in the world of tech and security.
+
+Feel free to explore — and let’s connect!
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
