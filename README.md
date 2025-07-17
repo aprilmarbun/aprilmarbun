@@ -1,5 +1,5 @@
 # Hello, I'm APRIL
-<a href="www.linkedin.com/in/amarbun"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amarbun"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hi! I'm April Marbun — a Computer Engineering graduate with a strong interest in cybersecurity, networking, and system security.
 
